@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Marina Cantarelli!</h1>
 <h2 align="center">I am currently on my fifth semester - 5/8.</h2>
-<h3 align="center">I'm a student of Computer Science from Catholic University of Pernambuco.</h3>
+<h3 align="center">I'm a student of Computer Science from Mackenzie Presbyterian University.</h3>
 
 - I’m currently learning **Python**
 
