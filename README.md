@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Marina Cantarelli!</h1>
-<h2 align="center">I am currently on my third semester - 6/8.</h2>
+<h2 align="center">I am currently on my sixth semester - 6/8.</h2>
 <h3 align="center">I'm a student of Computer Science from Mackenzie Presbyterian University.</h3>
 
 - I’m currently learning **C and Swift**
